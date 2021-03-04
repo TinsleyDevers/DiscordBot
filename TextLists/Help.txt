@@ -1,0 +1,10 @@
+*you want help little idiot boy, little dumb baby huh??*
+**!help** | seriously need me to tell you this one?
+**!age** | shows your personal Discord Age & Server Join Age. *|* *freakin' old person.*
+**!reddit** | search for anything on reddit! currently a WIP but functional *| work in progress like ur mom*
+**!meme** | displays a random meme from r/memes *| i bet you laugh at everything with your sense of humor*
+**!8ball** | 8ball a fun game of RNG *| going to ask yourself some questions really now?*
+**!join** | the bot will join a voice channel you're currently in. *|* *must be the first time having something or someone in a call with you.*
+**!play** | the bot will play music from a url you provide *|* *somebody finally wants to speak to you.*
+**!leave** | the bot will leave the voice channel if currently connected in one. *|* *now your fake friend is gone; probably the closest thing to a real friend you've had.*
+**!ping** | shows you the ping of the bot. *|* *yet you'll still complain about lag*

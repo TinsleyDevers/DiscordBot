@@ -134,7 +134,7 @@ async def pause(ctx):
         await ctx.send("Music not playing failed pause")
 
 # Music Bot- Resume
-@client.command(pass_context=True, aliases=['r', 'res'])
+@client.command(pass_context=True, aliases=['r', 'res', 'unpause', 'up'])
 async def resume(ctx):
 
     voice = get(client.voice_clients, guild=ctx.guild)
